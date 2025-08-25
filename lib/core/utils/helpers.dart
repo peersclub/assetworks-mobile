@@ -21,7 +21,7 @@ void showToast(String message, {bool isError = false}) {
   );
 }
 
-class iOS18Theme {
+class HapticHelper {
   // Haptic feedback
   static void lightImpact() {
     HapticFeedback.lightImpact();

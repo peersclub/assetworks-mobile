@@ -2,6 +2,7 @@ import 'package:get/get.dart';
 import '../../data/models/widget_model.dart';
 import '../../services/api_service.dart';
 import '../../core/utils/helpers.dart';
+import '../../core/theme/ios18_theme.dart';
 
 class ExploreController extends GetxController {
   final ApiService _apiService = Get.find<ApiService>();

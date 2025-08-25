@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import '../../../../core/theme/ios18_theme.dart';
 import '../../../../services/auth_service.dart';
-import '../../../../core/utils/helpers.dart';
+import '../../../../core/utils/helpers.dart' show showToast;
 
 class IOSAuthScreen extends StatefulWidget {
   const IOSAuthScreen({super.key});

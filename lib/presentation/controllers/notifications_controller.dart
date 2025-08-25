@@ -2,6 +2,7 @@ import 'package:get/get.dart';
 import '../pages/ios/notifications/ios_notifications_screen.dart';
 import '../../services/api_service.dart';
 import '../../core/utils/helpers.dart';
+import '../../core/theme/ios18_theme.dart';
 
 class NotificationsController extends GetxController {
   final ApiService _apiService = Get.find<ApiService>();
