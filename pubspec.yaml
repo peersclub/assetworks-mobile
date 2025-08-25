@@ -12,7 +12,7 @@ dependencies:
   
   # UI
   cupertino_icons: ^1.0.6
-  lucide_icons: ^0.293.0
+  lucide_icons: ^0.257.0
   
   # State Management & Navigation
   get: ^4.6.6
